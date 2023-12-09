@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Camila Martinez</h1>
 <h3 align="center">Soy Frontend y UX desing</h3>
 
-- 👯 Estoy colaborando en: (08/2023-Actualmente)) [Salta de Turno.](https://salta-de-turno.netlify.app/)
+- 👯 Estoy colaborando en  [Salta de Turno.](https://salta-de-turno.netlify.app/)  (08/2023-Actualmente)
 
 - 💬 Puedes preguntarme sobre **HTML, CSS, JavaScript, Figma**
 
